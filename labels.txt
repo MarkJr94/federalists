@@ -1,0 +1,12 @@
+Subject 	Label assigned	 Log likelihood [Hamilton model]	Log likelihood [Madison model]
+federalist/unknown1.txt	Madison	29.939045527557383	31.583705987840958
+federalist/unknown2.txt	Madison	17.673709069582515	18.67408194631297
+federalist/unknown3.txt	Madison	33.763255030110805	35.82774333746492
+federalist/unknown4.txt	Madison	31.503084208480022	33.30363724138983
+federalist/unknown5.txt	Madison	35.47656937897834	37.264819257903696
+federalist/unknown6.txt	Madison	34.918953640857794	36.85386685824204
+federalist/unknown7.txt	Madison	33.52601190745401	34.96946098777398
+federalist/unknown8.txt	Madison	26.643730944805004	27.750798534023232
+federalist/unknown9.txt	Madison	38.63012962238924	40.56600037291414
+federalist/unknown10.txt	Madison	38.35194492764328	39.94279017759729
+federalist/unknown11.txt	Madison	50.216434628207935	52.97019025380786
