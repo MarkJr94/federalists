@@ -28,6 +28,6 @@ clean = removePunct . lower
 
 getCounts :: [String] -> Dict
 getCounts ss = go m ss
-	where m = M.empty
-	      go m' (s':ss') = go ( M.insertWith (+)  (clean s') 1 m') ss'
-	      go m' _ = m'
+    where m = M.empty
+          go m' (s':ss') = go ( M.insertWith (+)  (clean s') 1 m') ss'
+          go m' _ = m'
